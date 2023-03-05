@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "6364cbbc9fecc12ce58bee68",
+    "description": "Ảnh Quảng cáo 1",
+    "anh": "https://bucket.nhanh.vn/store/662/bn/Transition.png",
+    "__v": 0
+  },
+  {
+    "_id": "6364cdc19fecc12ce58bee7c",
+    "description": "Ảnh Quảng Cáo 2",
+    "anh": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965391/kgsg2jararlyoaq0pldj.png",
+    "__v": 0
+  },
+  {
+    "_id": "6364cdf69fecc12ce58bee7e",
+    "description": "Ảnh Quảng Cáo 3",
+    "anh": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671964858/qtaqxqgrfcg61rs9n8mj.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "6398af1b7ee87ad0f33918e2",
+    "description": "Ảnh quảng cáo 4",
+    "anh": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1670950683/u5ji4tbcigacowri00p0.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "639d8bf91ea702f8fba57412",
+    "description": "Ảnh quảng cáo 5",
+    "anh": "https://golfedit.com/luat-choi-golf/6527-giai-vd-cac-clb-dong-ho-nhung-chu-y-ve-luat-khi-thi-dau-doi-khang.html",
+    "__v": 0
+  },
+]
