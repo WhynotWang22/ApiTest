@@ -19,8 +19,14 @@
   },
   {
     "_id": "6398af1b7ee87ad0f33918e2",
-    "description": "Ảnh quảng cáo 4",
+    "description": "Ảnh quảng cáo",
     "anh": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1670950683/u5ji4tbcigacowri00p0.jpg",
+    "__v": 0
+  },
+  {
+    "_id": "639d8bf91ea702f8fba57412",
+    "description": "Ảnh quảng cáo 4",
+    "anh": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671269368/mssyoeviyufecgco54iv.png",
     "__v": 0
   }
 ]
