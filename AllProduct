@@ -1,0 +1,1334 @@
+[
+  {
+    "_id": "637250c77a786113914fce7b",
+    "title": "Áo blazer nam Aristino ABZ00502",
+    "price": 189050,
+    "desc": "► Áo Blazer nam phom Premio phù hợp mọi dáng người► luôn giữ được phần ve áo ổn định ngay cả khi mở cúc► và tạo được phần thắt eo tôn dáng người mặc. ► Áo thiết kế lịch lãm với 1 khuy cài, 4 khuy tay áo,► 2 đường xẻ tà truyền thống nhưng vẫn trẻ trung.► Gam màu trung tính, lịch lãm tạo điểm nhấn nổi bật và thời thượng cho quý ông.",
+    "category": "Áo Gile",
+    "sizes": [
+      "XL",
+      "XXl",
+      "XXXl"
+    ],
+    "color": [
+      "red",
+      "black",
+      "green",
+      "lightblue"
+    ],
+    "stock": 28,
+    "sold": 8,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965506/kcvhhe1n6f7skrxfhmvv.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965576/t2orl7wx4njm5x0owmw2.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965578/vpmgjzti8puueojegml7.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965580/altrxpl84qt9pdnzfxck.jpg"
+    ],
+    "createdAt": "2022-11-14T14:29:27.722Z",
+    "updatedAt": "2022-12-27T02:22:23.323Z",
+    "__v": 0
+  },
+  {
+    "_id": "637251527a786113914fce83",
+    "title": "Áo Sơ Mi Dài Tay Slimfit 0260",
+    "price": 3970000,
+    "desc": "Chất liệu: ►35% Bamboo đem lại khả năng thấm hút tốt, thoáng mát, có khả năng kháng khuẩn và chống tia UV. ►61% Polyester giúp áo chống nhăn hiệu quả, không bị mài mòn, hạn chế hiện tượng chùng nhão, khó bám bẩn. ►4% Spandex tạo độ đàn hồi cao giúp người mặc thoải mái khi vận động. Kiểu dáng: ►Phom Slimfit ôm vừa vặn cơ thể, tôn lên vóc dáng người mặc, phù hợp với vóc dáng người Việt. Chi tiết: ►Màu sắc cơ bản dễ phối đồ, có 3 màu cho bạn lựa chọn: Đen, Trắng, Ghi ►Dễ dàng kết hợp với quần Jeans, quần âu, quần Kaki và quần short đều được. ",
+    "category": "Áo Sơ Mi",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "white"
+    ],
+    "stock": 27,
+    "sold": 23,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965574/ut6nrillwrjs80akumsn.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965636/wklipkdmyxtyfypnfsn8.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965639/fhcrwr1dhnyadbcebscu.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965642/sp9nxj5mler7zbzaxqzm.jpg"
+    ],
+    "createdAt": "2022-11-14T14:31:46.945Z",
+    "updatedAt": "2022-12-28T14:40:15.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "637251a17a786113914fce8b",
+    "title": "Áo Sơ Mi Dài Tay Slimfit 0242",
+    "price": 399000,
+    "desc": "Chất liệu: ►35% Bamboo đem lại khả năng thấm hút tốt, thoáng mát, có khả năng kháng khuẩn. ►61% Polyester giúp áo chống nhăn hiệu quả, không bị mài mòn, hạn chế hiện tượng chùng nhão, khó bám bẩn. ►4% Spandex tạo độ đàn hồi cao giúp người mặc thoải mái khi vận động. Kiểu dáng: ►Phom Slimfit ôm vừa vặn cơ thể, tôn lên vóc dáng người mặc, phù hợp với vóc dáng người Việt. Chi tiết: ►Màu sắc cơ bản dễ phối đồ, có 4 màu cho bạn lựa chọn: Đen, Trắng, Ghi, Xanh ►Dễ dàng kết hợp với quần Jeans, quần âu, quần Kaki và quần short đều được. ",
+    "category": "Áo Sơ Mi",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "green",
+      "white"
+    ],
+    "stock": 38,
+    "sold": 32,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965916/jap5ogb7xiuknafh8yf3.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966046/ebtltezes01x0niiafyw.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966049/vr3ixoyo8s7vwykgjtbr.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966052/gub4rspaxbjvxp3wjijz.jpg"
+    ],
+    "createdAt": "2022-11-14T14:33:05.325Z",
+    "updatedAt": "2022-12-27T04:35:47.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "637251e17a786113914fce95",
+    "title": "Áo Sơ Mi Tay Ngắn Regular 0005",
+    "price": 300000,
+    "desc": "Áo sơ mi nam là mẫu thời trang không thể thiếu trong tủ quần áo của đấng mày râu. Những chiếc áo sơ mi luôn toát lên phong cách lịch sự, trang trọng rất phù hợp với quý ông làm việc ở văn phòng, công sở",
+    "category": "Áo Sơ Mi",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "grey",
+      "yellow",
+      "white"
+    ],
+    "stock": 57,
+    "sold": 15,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966288/j5gqjhkmjujtfzw1qisq.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966354/g5c4dhytvkyacu2xah2f.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966356/wcxi0cafnvsjhnvhb9ky.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966359/mcqfhigazxnytecbbo78.jpg"
+    ],
+    "createdAt": "2022-11-14T14:34:09.924Z",
+    "updatedAt": "2022-12-25T11:06:00.077Z",
+    "__v": 0
+  },
+  {
+    "_id": "637253597a786113914fceac",
+    "title": "Áo Sơ Mi Tay Ngắn Regular Lụa 0093",
+    "price": 315000,
+    "desc": "Thiết kế  cổ bẻ, tay dài, có nút gài phía trước chắc chắn, đường may tỉ mỉ, áo thiết kế form vừa vặn giúp tôn được đường nét mạnh mẽ, nam tính của các chàng trai Màu sắc tinh tế và chất vải không nhăn, mang đến sự thanh lịch, cuốn hút và trẻ trung cho các bạn nam Sử dụng thoải mái cho môi trường công sở, mẫu áo có thiết kế như thế này sẽ giúp các bạn nam thể hiện được sự tươi trẻ, năng động, thanh lịch và dễ dàng khoe được vóc dáng cân đối của cơ thể",
+    "category": "Áo Sơ Mi",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "white"
+    ],
+    "stock": 9,
+    "sold": 1,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966772/udf04dqeft7khg1owbwh.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966798/o85ec7ytmywof1amofuu.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966801/ygcirmoiklta0c7wecl5.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966803/ra49n8h4gftvrixhbuaa.jpg"
+    ],
+    "createdAt": "2022-11-14T14:40:25.176Z",
+    "updatedAt": "2022-12-27T04:35:47.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "637253a67a786113914fceb0",
+    "title": "Quần âu nam Aristino ATR04202",
+    "price": 129000,
+    "desc": "🎉 Form dáng đơn giản, không quá kén dáng người mặc là một trong những yếu tố giúp bộ trang phục này luôn hợp thời trang với phong cách hiện đại.   🎉 Thời trang với màu sắc thanh lịch cùng chất liệu cao cấp là một gợi ý hoàn hảo cho các quý khách theo đuổi vẻ đẹp lịch sự, tinh tế.   🎉 Chất liệu vải co giãn nhẹ giúp thoải mái trong mọi hoạt động, vải mềm mịn, không nhăn, không bai màu, ít xù lông, ít bám bụi, giữ dáng không bai.   🎉 Thiết kế đơn giản nhưng luôn tạo được ấn tượng đặc biệt đối với người nhìn.   🎉 Chất liệu vải may đẹp, cao cấp, đường may tỉ mỉ, chắc chắn.",
+    "category": "Quần Âu",
+    "sizes": [
+      "M",
+      "L",
+      "XXl"
+    ],
+    "color": [
+      "grey",
+      "green",
+      "yellow"
+    ],
+    "stock": 7,
+    "sold": 11,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980494/znlfwyv2kwlxhs9vnvzu.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980512/wtjistjhqqmnaixsppux.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980514/clhzd6pyftupbal0eoxt.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980516/lxrqgmwsoawyuuam5hvj.jpg"
+    ],
+    "createdAt": "2022-11-14T14:41:42.306Z",
+    "updatedAt": "2022-12-28T14:40:15.841Z",
+    "__v": 0
+  },
+  {
+    "_id": "637253fb7a786113914fcebc",
+    "title": "Quần âu Aristino ATRG1102 màu Be",
+    "price": 225000,
+    "desc": "- Quần âu phom Golf Fit đặc biệt, có phần ống suông rộng thoải mái đồng thời vẫn đảm bảo sự vừa vặn như may đo. - Thiết kế thể thao khỏe khoắn, cạp chun hai bên sườn có khả năng co giãn, phù hợp với mọi dáng người khi mặc. Quần có cục trượt và túi ẩn bên trái đem lại sự tiện lợi tối đa cho golfer, màu sắc trung tính dễ kết hợp trang phục.",
+    "category": "Quần Âu",
+    "sizes": [
+      "M",
+      "XL",
+      "XXXl"
+    ],
+    "color": [
+      "red",
+      "black",
+      "green"
+    ],
+    "stock": 7,
+    "sold": 3,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980253/c4ij5ytxcl7i1dilvmfj.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980352/mwftu90ldvniuulqd8nl.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980355/i6e4tgtmrfoi365eqa5h.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980357/ysztuarpss08zmhyr96e.jpg"
+    ],
+    "createdAt": "2022-11-14T14:43:07.008Z",
+    "updatedAt": "2022-12-25T17:08:20.150Z",
+    "__v": 0
+  },
+  {
+    "_id": "6372547b7a786113914fcec6",
+    "title": "Quần âu Aristino ATR03302",
+    "price": 129000,
+    "desc": "- Quần âu phom Regular fit suông nhẹ, phù hợp với nhiều dáng người. - Màu sắc trung tính, dễ kết hợp trang phục khác, họa tiết kẻ tinh tế, tạo nên nét lịch lãm nhưng vẫn nổi bật cho các quý ông.",
+    "category": "Quần Âu",
+    "sizes": [
+      "S",
+      "XL",
+      "XXXl"
+    ],
+    "color": [
+      "black",
+      "yellow",
+      "lightblue"
+    ],
+    "stock": 55,
+    "sold": 12,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980905/fdgkxndvrbq4iakmdi4i.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980936/h0gc6ihzmojyeefzfbp6.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980938/sa12fyorhu0wlli47keu.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671980940/movkp82xg4clkgeipcwt.jpg"
+    ],
+    "createdAt": "2022-11-14T14:45:15.203Z",
+    "updatedAt": "2022-12-25T15:09:00.583Z",
+    "__v": 0
+  },
+  {
+    "_id": "637254d17a786113914fcecf",
+    "title": "Quần âu nam Aristino ATR00202",
+    "price": 795000,
+    "desc": "- Quần âu form Cropped có độ dài trên mắt cá chân, đồng thời vẫn có độ ôm vừa, tôn dáng người mặc tuyệt đối.  - Thiết kế chỉn chu, đứng dáng. Hiệu ứng kẻ tinh tế kết hợp màu sắc nam tính mang đến cho người mặc diện mạo lịch lãm. Quần có túi xẻ 2 bên và túi sau tiện lợi.",
+    "category": "Quần Âu",
+    "sizes": [
+      "M",
+      "L",
+      "XXXl"
+    ],
+    "color": [
+      "red",
+      "grey",
+      "green"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671982777/kdeigkix5kjkbf9wq6av.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671982860/j6g6zcqi9zzsfcfwmpyi.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671982862/qto3raflenegiobcxw3j.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671982864/wauczx8dukvl5btmnrw5.jpg"
+    ],
+    "createdAt": "2022-11-14T14:46:41.300Z",
+    "updatedAt": "2022-12-25T17:15:02.504Z",
+    "__v": 0
+  },
+  {
+    "_id": "637255c47a786113914fcee1",
+    "title": "Quần short kaki nam DONMAN",
+    "price": 119000,
+    "desc": "Trong tủ đồ của cánh mày râu chắc hẳn không thể thiếu đi chiếc quần short kaki 5 màu đa-zi-năng phối hợp form dáng chuẩn đẹp, thoải mái và cũng rất lịch sự. Chiếc quần này mang đến sự tự tin, trẻ trung, năng động cho phái mạnh và cũng rất dễ phối hợp cùng các phụ kiện thời trang khác. Cùng xem qua một vài mẫu quần short xịn xò này cùng Donman nhé! ",
+    "category": "Quần ngắn",
+    "sizes": [
+      "M",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "red",
+      "grey",
+      "green"
+    ],
+    "stock": 6,
+    "sold": 4,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437443/ve0rsga7fxk5dmgqj6nl.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437468/Comment/brn6zqemm4dpuo4z33ox.jpg"
+    ],
+    "createdAt": "2022-11-14T14:50:44.571Z",
+    "updatedAt": "2022-12-23T19:55:37.258Z",
+    "__v": 0
+  },
+  {
+    "_id": "637256187a786113914fceef",
+    "title": "Quần SHORT Thể Thao Nam Vải Cotton Thun Lạnh Gió",
+    "price": 890000,
+    "desc": "quần short nam thể thao vải cotton thun lạnh gió có túi kéo nỉ cao cấp trơn màu đen lỗ bề mặt thoát khí dây quần co giãn đẹp quần ngắn đùi sport premium quần thể thao mỏng nhẹ thoáng đi làm công sở đi chơi tập gym thể dục mát hằng ngày basic man men form chuẩn việt nam xuất xịn chính hãng chống nhăn",
+    "category": "Quần ngắn",
+    "sizes": [
+      "M",
+      "L",
+      "XXl"
+    ],
+    "color": [
+      "black",
+      "green",
+      "yellow"
+    ],
+    "stock": 9,
+    "sold": 1,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437527/r6xriovov2vpfxkvildl.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437540/Comment/fzjzu2eb4wl1mhsmaxuv.jpg"
+    ],
+    "createdAt": "2022-11-14T14:52:08.674Z",
+    "updatedAt": "2022-12-23T19:55:50.532Z",
+    "__v": 0
+  },
+  {
+    "_id": "6372565e7a786113914fcefb",
+    "title": "Quần short BXPB denim dáng rộng",
+    "price": 210000,
+    "desc": "1. Sản phẩm tinh tế, đẹp, tinh tế, quyến rũ hơn và tổng thể kết hợp sản phẩm trang nhã 2. Quần có thiết kế chắc chắn tạo điểm nhấn ngọt ngào, dễ thương cho bé 3. Chất vải mềm mại, thoải mái khi mặc, thoáng khí và không bị bí",
+    "category": "Quần ngắn",
+    "sizes": [
+      "S",
+      "L",
+      "XXl"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "green"
+    ],
+    "stock": 9,
+    "sold": 1,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437596/wjd9nj1jrrmqzfuzayy2.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437609/Comment/frclbpumrger8ddm4zpd.jpg"
+    ],
+    "createdAt": "2022-11-14T14:53:18.343Z",
+    "updatedAt": "2022-12-25T12:48:16.335Z",
+    "__v": 0
+  },
+  {
+    "_id": "6372569b7a786113914fcf03",
+    "title": "Quần short nam thể thao Recycle 7 thoáng khí",
+    "price": 239000,
+    "desc": "Coolmate đã cho ra mắt rất nhiều sản phẩm thể thao với nhiều chất liệu: Maxcool, Poly Quickdry,... Tiếp nối những sản phẩm thể thao trước đó và đi theo xu hướng ngành may mặc \"thời trang bền vững\", Coolmate ra mắt sản phẩm Quần thể thao nam 7\" Recycle thân thiện với môi trường với thành phần chính là 100% sợi Recycle. Cùng tìm hiểu vì sao chiếc quần nam thể thao Recycle 7\" thoáng khí này là sản phẩm mà chúng tôi muốn gửi đến khách hàng. ",
+    "category": "Quần ngắn",
+    "sizes": [
+      "M",
+      "XL",
+      "XXXl"
+    ],
+    "color": [
+      "black",
+      "green",
+      "pink"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437658/g2ti4pa7ok3vbnkvydoc.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437672/Comment/nvjdkycsjmr14gk6oyos.jpg"
+    ],
+    "createdAt": "2022-11-14T14:54:19.834Z",
+    "updatedAt": "2022-12-24T09:53:02.853Z",
+    "__v": 0
+  },
+  {
+    "_id": "637256fd7a786113914fcf17",
+    "title": "Quần bò nam xanh đậm JONATHAN QJ054",
+    "price": 475000,
+    "desc": "- Chất liệu: Vải Denim 100% cotton CAO CẤP co giãn 4 chiều, form slim fit mặc thoải mái tôn dáng - Hàng còn nguyên tem mác, cực sang chảnh - Basic phối Sơ mi hay áo phông đều đẹp. Mặc dạo phố, du lịch hay đến các buổi tiệc đều mang đến sự tự tin đẳng cấp    dành cho khách hàng. - Quần jean nam màu sắc chuẩn được nhuộm kỹ đến hai lần giúp hạn chế tối đa việc phai màu khi sử dụng. - Sản phẩm được đóng hộp sang chảnh bọc kèm 1 lớp hộp chống móp méo khi vận chuyển - Tự hào khi quần jean cao cấp được thiết kế và gia công tại Việt Nam",
+    "category": "Quần Bò",
+    "sizes": [
+      "M",
+      "XXl",
+      "XXXl"
+    ],
+    "color": [
+      "pink",
+      "blue",
+      "lightblue"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437755/uvjnppf9i1f044sb0e7p.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437770/Comment/hkbx8cbqgxvkfde7jfbl.jpg"
+    ],
+    "createdAt": "2022-11-14T14:55:57.290Z",
+    "updatedAt": "2022-12-23T19:56:27.971Z",
+    "__v": 0
+  },
+  {
+    "_id": "6372576c7a786113914fcf23",
+    "title": "Quần bò nam streetwear cao cấp FNOS NZ21",
+    "price": 349000,
+    "desc": "FNOS tự tin vào form dáng cũng như chất liệu của quần jean nam streetwear này có thể làm chiều lòng ngay cả những khách hàng khó tính nhất. Và nếu chất liệu quần jean không giống như mô tả, chúng mình sẵn sàng hoàn trả toàn bộ số tiền mà bạn bỏ ra để trải nghiệm chiếc quần với chất liệu sánh ngang hàng hiệu này.",
+    "category": "Quần Bò",
+    "sizes": [
+      "M",
+      "XL",
+      "XXl",
+      "XXXl"
+    ],
+    "color": [
+      "grey",
+      "yellow",
+      "pink",
+      "blue"
+    ],
+    "stock": 9,
+    "sold": 1,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437866/c7b43e79kmrs3zsybaqp.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437925/Comment/txf22brqjqremoduhcyt.jpg"
+    ],
+    "createdAt": "2022-11-14T14:57:48.269Z",
+    "updatedAt": "2022-12-23T19:57:08.813Z",
+    "__v": 0
+  },
+  {
+    "_id": "637257e57a786113914fcf31",
+    "title": "Quần bò BASIC SUÔNG Unisex N7",
+    "price": 199000,
+    "desc": "Quần JEAN BASIC SUÔNG Unisex N7 Oversize  Nam Nữ phong cách Hàn Quốc Ullzang thời trang đường phố mùa hè: - Vải Jeans dày dặn dày dặn chất lượng hàng loại 1, chuẩn giống hình 100%. - Hàng có sẵn, giao hàng ngay khi nhận được đơn đặt hàng . - Hoàn tiền 100% nếu sản phẩm lỗi, nhầm hoặc không giống với mô tả.",
+    "category": "Quần Bò",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "red",
+      "black",
+      "grey",
+      "green"
+    ],
+    "stock": 10,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668437987/ebev7utoxitcb9oflqn7.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438003/Comment/ees5sxmjcqvor2qdiq8n.jpg"
+    ],
+    "createdAt": "2022-11-14T14:59:49.251Z",
+    "updatedAt": "2022-12-23T19:57:41.460Z",
+    "__v": 0
+  },
+  {
+    "_id": "6372582e7a786113914fcf39",
+    "title": "Quần Bò Nam Dáng Dài PHAN NGUYỄN Kiểu Dáng Slim Fit",
+    "price": 649000,
+    "desc": "1. Thông tin sản phẩm  - Thương hiệu: Phan Nguyễn.  - Xuất xứ: Việt Nam.  - Mã sản phẩm: QBD.023.  - Chất liệu: 98%COTTON - 2%SPANDEX.",
+    "category": "Quần Bò",
+    "sizes": [
+      "M",
+      "XL",
+      "XXXl"
+    ],
+    "color": [
+      "red",
+      "grey",
+      "yellow"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438060/zpjz6ns0wypdvaqftkib.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438072/Comment/zmp9doheltwx0zyaaxvc.jpg"
+    ],
+    "createdAt": "2022-11-14T15:01:02.441Z",
+    "updatedAt": "2022-12-23T19:58:00.618Z",
+    "__v": 0
+  },
+  {
+    "_id": "63725b357a786113914fd537",
+    "title": "Quần Tây Nam Hàn Quốc KJ Ống Côn Cao Cấp",
+    "price": 135000,
+    "desc": "Quần Âu Nam ống côn , chất vải tuyết mưa cao cấp  chính là gợi ý tuyệt vời cho nam giới mỗi khi lựa chọn trang phục mỗi ngày. Với những mẫu quần âu nam thiết kế đơn giản và toát lên vẻ lịch lãm tinh tế, mang đến phong cách thời trang trẻ trung, năng động chắc chắn sẽ là lựa chọn hoàn hảo cho chàng trai hiện đại, nam tính. ",
+    "category": "Quần Tây",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XXl"
+    ],
+    "color": [
+      "pink",
+      "white",
+      "blue",
+      "lightblue"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438836/abt04u2p8kzzecod5aef.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438846/Comment/hlnsvvl5jw96xaltkjwc.jpg"
+    ],
+    "createdAt": "2022-11-14T15:13:57.675Z",
+    "updatedAt": "2022-12-23T20:38:08.326Z",
+    "__v": 0
+  },
+  {
+    "_id": "63725b9a7a786113914fd549",
+    "title": "Quần Tây Nam Cạp Cao 2 Khuy Hàn Quốc Cao Cấp",
+    "price": 200000,
+    "desc": "👉 Tên sản phẩm:  Quần Âu Nam Vnice trơn, Dáng Ôm Vừa, Chất Liệu Ít Nhăn, Thoáng Mát, Có Giãn Nhẹ     👉 Mã sản phẩm: QATM    👉 Màu: tím than tối    👉 Xuất sứ: Việt Nam    👉 Thành phần: 68% poly, 30% Rayon, 2% spandex    👉 Mô tả chung:     Quần âu nam Vnice được may từ chất liệu vải 68% poly, 30% Rayon, 2% spandex thoáng mát, thấm hút mồ hôi tốt.    Mặt vải dày vừa phải, ít nhăn, tạo dáng ống đứng, ôm vừa phải gọn gàng và lịch lãm.    Sản phẩm có đường chỉ may tỉ mỉ, tinh tế.    Thiết kế cổ điển với khóa kéo, cài khuy, đỉa quần nhỏ, túi trước, sau.    Quần âu màu sắc đơn giản, dễ mặc, dễ kết hợp với nhiều kiểu trang phục khác nhau cho nhiều dịp và nhiều hoàn cảnh chắc chắn sẽ giúp bạn nam thể hiện phong cách lịch lãm, trẻ trung của mình mỗi khi ra ngoài.",
+    "category": "Quần Tây",
+    "sizes": [
+      "XL",
+      "XXl",
+      "XXXl"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "green"
+    ],
+    "stock": 10,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438937/hzelucdfftngaz9frcdh.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668438953/Comment/ekvvsputwtl6edcjox6v.jpg"
+    ],
+    "createdAt": "2022-11-14T15:15:38.816Z",
+    "updatedAt": "2022-12-23T19:59:08.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "63725c077a786113914fd55c",
+    "title": "Quần tây 0 ly Vĩnh Tiến bigsize 465",
+    "price": 395250,
+    "desc": "Chất liệu: 70% Polyester - 28% Rayon - 2% Spandex Kiểu dáng: Quần dài 0 ly - Form suông - 4 túi Nút cài và khóa kéo chắc chắn Đường may tỉ mỉ, tinh tế Màu sắc: Nhiều màu đễ phối trang phục Phong cách: Phù hợp chốn công sở Dù bạn sở hữu thân hình như thế nào, vẫn có chiếc quần phù hợp của riêng mình. Cách mặc quần tây nam đẹp không cần phải đẹp về hình thể, mà chỉ cần bạn chọn được một chiếc quần vừa vặn, màu sắc phù hợp thì bạn có như thế nào vẫn tỏa sáng khi mặc nó. Vĩnh Tiến hiện đang có rất nhiều mẫu quần tây nam đẹp đáp ứng thị hiếu khách hàng. Chắc chắn những mẫu quần tây nam này sẽ mang lại cho bạn sự hài lòng về chất lượng của sản phẩm.",
+    "category": "Quần Tây",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "yellow"
+    ],
+    "stock": 10,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671724889/wm8sbm4vbxrjzzs9ppqn.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668439056/Comment/qtz040tuc2wktrx2wnof.jpg"
+    ],
+    "createdAt": "2022-11-14T15:17:27.266Z",
+    "updatedAt": "2022-12-23T19:59:25.957Z",
+    "__v": 0
+  },
+  {
+    "_id": "63725c4a7a786113914fd566",
+    "title": "Quần tây nam ARISTINO ATRR04 công sở cao cấp",
+    "price": 690000,
+    "desc": "- Với định vị là thương hiệu TOP 1 thời trang nam cao cấp \"Made in Việt Nam\", Aristino cung cấp các sản phẩm thời trang nam cơ bản với chất liệu thiên nhiên, thiết kế thời thượng và phom dáng phù hợp với hình thể người Việt Nam.  - Ra đời năm 2013, chỉ 4 năm, ARISTINO xuất hiện ở hơn 1000 cửa hàng thời trang và dự kiến gần 100 showroom trên toàn quốc với tốc độ tăng trưởng 200% mỗi năm.",
+    "category": "Quần Tây",
+    "sizes": [
+      "L",
+      "XXl",
+      "XXXl"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "yellow"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668439112/volpflqoyv37isx5p5g3.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1668439122/Comment/sx0t9otdutprtbos5k5v.jpg"
+    ],
+    "createdAt": "2022-11-14T15:18:34.143Z",
+    "updatedAt": "2022-12-25T11:28:26.240Z",
+    "__v": 0
+  },
+  {
+    "_id": "637342f4a9fd9176be1216cd",
+    "title": "Áo Polo Slimfit 0270",
+    "price": 319000,
+    "desc": "Chất liệu:\n\n   ►Thành phần 70% Cotton + 30% Polyester.\n\n   ►Chất vải Cotton thoáng khí, thấm hút mồ hôi cực tốt.\n\n   ►Độ bền cao, co giãn nhẹ,  tạo cảm giác thoải mái khi vận động. \n\n Kiểu dáng: \n\n   ►Phom Slimfit ôm vừa vặn không quá bó, tạo cảm giác thoải mái cho người mặc, phù hợp với vóc dáng người Việt.\n\nChi tiết: \n\n   ►Màu sắc cơ bản dễ phối đồ. Có thể mix với quần Jeans, quần âu và quần short đều được.\n\n   ►Họa tiết kẻ ở phần cổ và bo tay nổi bật tạo điểm nhấn cho cả outfit",
+    "category": "Áo Polo",
+    "sizes": [
+      "S",
+      "L",
+      "XXl"
+    ],
+    "color": [
+      "black",
+      "yellow",
+      "white"
+    ],
+    "stock": 0,
+    "sold": 22,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967063/katvgsbaimxnawn4e329.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968727/ir8jgpuxou3dkparlj5x.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968730/gzcokckfconxv5gyanao.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968733/kltecbgda5payzahoklg.jpg"
+    ],
+    "createdAt": "2022-11-15T07:42:44.636Z",
+    "updatedAt": "2022-12-26T14:33:54.705Z",
+    "__v": 0
+  },
+  {
+    "_id": "637344d0c9f9e7cbe48d6eb2",
+    "title": "Áo Polo Vải Thun Cotton 0198",
+    "price": 150000,
+    "desc": "Chất liệu:     ►Thành phần 70% Cotton + 30% Polyester.     ►Chất vải Cotton mềm mịn, thoáng khí, thấm hút mồ hôi cực tốt.     ►Độ bền cao, co giãn nhẹ,  tạo cảm giác thoải mái khi vận động.    Kiểu dáng:      ►Phom Slimfit ôm vừa vặn không quá bó, tạo cảm giác thoải mái cho người mặc, phù hợp với vóc dáng người Việt.  Chi tiết:      ►Màu sắc cơ bản dễ phối đồ. Có thể mix với quần Jeans, quần âu và quần short đều được.",
+    "category": "Áo Polo",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "green",
+      "white"
+    ],
+    "stock": 7,
+    "sold": 3,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968149/szkexvmeb5ch96kndzde.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968182/bwf3yl9uuny3zwtjogpb.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968185/icutoja5zdfvipenyro7.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968189/jvvmqjr7ngaq6jwsxnqs.jpg"
+    ],
+    "createdAt": "2022-11-15T07:50:40.138Z",
+    "updatedAt": "2022-12-25T11:36:29.611Z",
+    "__v": 0
+  },
+  {
+    "_id": "63734505c9f9e7cbe48d6eba",
+    "title": "Áo Polo 4028",
+    "price": 345000,
+    "desc": "Chất liệu:     ►Được làm từ vải lascoste với thành phần là 95% cotton + 5% spandex.     ►Ưu điểm là vải được dệt với mắt vải to nên rất thoáng mát, thấm hút mồ hôi. Độ dày cứng cáp giúp giữ giữ phom cực tốt.     ►Vải có độ bền cao, co giãn nhẹ, tạo cảm giác thoải mái khi vận động.   Kiểu dáng :      ►Phom Slimfit ôm vừa vặn không quá bó , tạo cảm giác thoải mái cho người mặc .   Chi tiết :      ►Màu sắc cơ bản dễ phối đồ. Có thể mix với quần jeans, quần âu hay quần short đều được.",
+    "category": "Áo Polo",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "yellow",
+      "white"
+    ],
+    "stock": 19,
+    "sold": 9,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968330/gdz7k81rogcidmp5ebqc.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968370/wjty9icjwsiiuv0orcpe.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968373/xjn2osrrzyfa8psei12x.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968376/pyp4ywhe5b2e6ntwvscx.jpg"
+    ],
+    "createdAt": "2022-11-15T07:51:33.364Z",
+    "updatedAt": "2022-12-29T04:55:35.609Z",
+    "__v": 0
+  },
+  {
+    "_id": "6373455bc9f9e7cbe48d6ec2",
+    "title": "Áo Polo Vải Thun Cotton 0127",
+    "price": 650000,
+    "desc": "Chất liệu:\n\n   ►Thành phần 80% Cotton + 20% Polyester.\n\n   ►Chất vải Cotton mềm mịn, thoáng khí, thấm hút mồ hôi cực tốt.\n\n   ►Độ bền cao, co giãn nhẹ,  tạo cảm giác thoải mái khi vận động. \n\n Kiểu dáng: \n\n   ►Phom Slimfit ôm vừa vặn không quá bó, tạo cảm giác thoải mái cho người mặc, phù hợp với vóc dáng người Việt.\n\nChi tiết: \n\n   ►Màu sắc cơ bản dễ phối đồ. Có thể mix với quần Jeans, quần âu và quần short đều được.\n\n   ►Phối màu tinh tế ở hai phần tay áo vừa là chi tiết tạo điểm nhấn mà lại vô cùng trendy.",
+    "category": "Áo Polo",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "white"
+    ],
+    "stock": 20,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968690/yjra72dprnohmplopa7l.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968827/ejhvkxflty0xl51wjdkx.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968830/lwo28tpvchx30b4xrxcp.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968834/laslhwtz5pa0cp9ubac6.jpg"
+    ],
+    "createdAt": "2022-11-15T07:52:59.571Z",
+    "updatedAt": "2022-12-25T11:47:15.016Z",
+    "__v": 0
+  },
+  {
+    "_id": "63734f68b95307e9c1e4e9e7",
+    "title": "Áo polo nam Aristino APS212S2",
+    "price": 650000,
+    "desc": "Kiểu dáng: Slim Fit\n\nThiết kế:\n- Áo thun có cổ ngắn tay phom dáng Slim Fit ôm vừa vặn, tôn dáng người mặc.\n- Áo sử dụng kỹ thuật dệt Jacquard tạo hiệu ứng tinh tế trên nền màu nổi bật đem đến diện mạo thời thượng và lịch lãm cho người mặc.\n\nChất liệu: \n- 52% Nylon cho bề mặt vải độ mịn mượt, mỏng nhẹ\n- 38% Polyester giúp màu áo sắc nét và giữ màu tốt theo thời gian.\n- 10% Spandex tạo độ co giãn, thoải mái tối đa khi mặc.\n\nMàu sắc: Xanh aqua 57 Kẻ Jacquard, Xanh cổ vịt 62 Kẻ Jacquard\n\nSize: S, M, L, XL",
+    "category": "Áo Polo",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "green"
+    ],
+    "stock": 23,
+    "sold": 7,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969018/mx4hhy37qc3okpglqtsm.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969039/pho4as60xfxw1kxac5uf.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969042/lthypeihacehmaf9zspl.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969043/fdtsh8h9qejakp2erox3.jpg"
+    ],
+    "createdAt": "2022-11-15T08:35:52.797Z",
+    "updatedAt": "2022-12-26T22:43:00.864Z",
+    "__v": 0
+  },
+  {
+    "_id": "638648d3fd91afcbe3aa74f1",
+    "title": "Áo khoác vest Nam Form Rộng MrHero dài tay vest dáng dài",
+    "price": 269000,
+    "desc": "Áo blazer nam là một một kiểu áo được thiết kế khá tương đồng với áo vest nhưng có sự đa dạng và thoải mái hơn nhiều. Form dáng áo blazer thường là form rộng không ôm sát người dáng dài hơn.  Đây là mẫu áo khoác  được giúp các bạn nam dễ dàng mix match được với nhiều item khác nhau mang tính ứng dụng cao hơn vest.",
+    "category": "Áo Vest",
+    "sizes": [
+      "S",
+      "L",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "yellow"
+    ],
+    "stock": 8,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1669744850/xiq1iadlkwvbccmfkkbk.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1669744862/t1gzbzilcsrgetopfmyy.jpg"
+    ],
+    "createdAt": "2022-11-29T18:00:51.524Z",
+    "updatedAt": "2022-12-24T09:06:49.926Z",
+    "__v": 0
+  },
+  {
+    "_id": "63864919fd91afcbe3aa74fa",
+    "title": "Áo blazer nam chumi 2 lớp dày dặn form rộng dáng unisex ad006",
+    "price": 265000,
+    "desc": "Áo blazer nam chumi  2 lớp dày dặn form rộng dáng unisex ad006 - Vải wool mềm, mịn, thoáng mát, form rộng, thích hợp với n hiều dáng người.  - Blazer sinh ra không chỉ để phục vụ họp hành công việc mà còn để đi chơi, dạo phố vì nó không quá cứng nhắc như vest nhưng lại lịch sự hợn những chiếc áo phông với quần bò. ",
+    "category": "",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "red",
+      "grey",
+      "green"
+    ],
+    "stock": 0,
+    "sold": 2,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1669744920/qztmmkwcsjfnoaojzz83.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1669744934/pams1ufsgqst2zbss3ml.jpg"
+    ],
+    "createdAt": "2022-11-29T18:02:01.382Z",
+    "updatedAt": "2022-12-25T15:43:56.638Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a8290357da696d6a618ca1",
+    "title": "Quần jeans nam Aristino AJN00701",
+    "price": 795000,
+    "desc": "\r\n     KIỂU DÁNG: REGULAR FIT\r\n\r\nCHI TIẾT:\r\n\r\n- Quần jeans phom dáng regular fit với độ suông nhẹ, không ôm sát chân, thoải mái trong mọi vận động.\r\n\r\n- Quần được thiết kế với các đường nét cơ bản: túi xẻ 2 bên, túi vuông phía sau quần. Đặc biệt, với màu xanh chàm đậm tạo thêm nét nét thời trang cho người mặc.                   ",
+    "category": "Quần Bò",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "red",
+      "black",
+      "grey",
+      "green"
+    ],
+    "stock": 37,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671964931/covoq0awu5rtpgojk5xl.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965012/vveghduy8nkffoe6ljn8.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965015/ghl1bprq9ua7by7c75u0.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965017/jtr4yq6m1jnkoy7yisyj.jpg"
+    ],
+    "createdAt": "2022-12-25T10:42:11.889Z",
+    "updatedAt": "2022-12-25T10:43:37.771Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a829dd57da696d6a618cb7",
+    "title": "Áo sơ mi - AR221560DT",
+    "price": 399000,
+    "desc": "Áo sơ mi dài tay, kiểu dáng Regular Fit dễ mặc, hợp form dáng.Màu sắc và kiểu dáng trẻ trung, kiểu dáng hiện đại, dễ phối đồ.Chất liệu Recycle Poly mịn mát, thoải mái.",
+    "category": "Áo Sơ Mi",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "white"
+    ],
+    "stock": 9,
+    "sold": 1,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965148/ekkuujhxuvro9jsrswpa.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965180/gfnlwa01pqys75dyited.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965182/ded0iazwhjvyaug99iez.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965185/v92bemphhqxunfygaosj.jpg"
+    ],
+    "createdAt": "2022-12-25T10:45:49.356Z",
+    "updatedAt": "2022-12-26T22:46:14.645Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82a7357da696d6a618e05",
+    "title": "Quần jeans nam Aristino AJN00209",
+    "price": 850000,
+    "desc": "KIỂU DÁNG: CASUAL FIT\r\nCHI TIẾT:\r\n\r\n- Quần Jean phom Casual Fit suông rộng, thoải mái mang đến cho người mặc vẻ ngoài phóng khoáng và thời thượng.\r\n\r\n- Thiết kế trẻ trung nhờ phần mài rách theo kích thước ngẫu nhiên ở phần đầu gối. Quần màu trung tính và được tạo điểm nhấn bởi những mảng màu đậm nhạt thay đổi liên tục nhờ hiệu ứng wash thời trang.\r\n                        ",
+    "category": "Quần Bò",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "pink",
+      "white",
+      "blue",
+      "lightblue"
+    ],
+    "stock": 34,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965299/om6pbsl3y08btmvvhdtx.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965317/f1hbn6zgpqdnjb7s0b6a.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965319/gtyj9zkyzrtuw8nzs112.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965321/ghfcy5hv6yn0padflkzd.jpg"
+    ],
+    "createdAt": "2022-12-25T10:48:19.783Z",
+    "updatedAt": "2022-12-25T10:48:42.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82a7857da696d6a618e09",
+    "title": "ÁO VEST GHI KẺ NÂU ĐEN - AV299",
+    "price": 3950000,
+    "desc": "Kiểu dáng: Slim fit, sang trọng cách tân dựa trên tỷ lệ hình thể người đàn ông Việt Nam giúp bộ đồ trông sang trọng nhưng vẫn giữ được sự trẻ trung và hạn chế khuyết điểm.\r\n                        ",
+    "category": "Áo Vest",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "black",
+      "yellow",
+      "white"
+    ],
+    "stock": 54,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965304/u30fr8xje8ll5yurigy7.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965614/qufcce7ouxitu1kfeocd.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965616/vpvlbjxn1gehnzesxyaj.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965617/w6fqjlrrmkmq1qqrhrfm.jpg"
+    ],
+    "createdAt": "2022-12-25T10:48:24.659Z",
+    "updatedAt": "2022-12-25T10:53:38.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82b4557da696d6a618e88",
+    "title": "Quần jeans nam Aristino AJN00801",
+    "price": 557000,
+    "desc": "\r\n KIỂU DÁNG: SLIM FIT\r\nCHI TIẾT:\r\n\r\n- Quần jeans phom Slim fit với độ ôm vừa vặn giúp tôn dáng đôi chân mà vẫn thoải mái vận động.\r\n\r\n- Quần có túi xẻ 2 bên và túi sau tiện lợi. Thiết kế basic dễ dàng kết hợp với trang phục khác. Màu sắc nam tính mang đến diện mạo trẻ trung cho người mặc.                       ",
+    "category": "Quần Bò",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "yellow",
+      "pink",
+      "white",
+      "blue"
+    ],
+    "stock": 44,
+    "sold": 1,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965508/hsoojhlqfk2crgjcrxhk.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965537/u3ic0fobhbuktqxc16ch.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965540/sruicvxwa1kloi6pbfrc.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965542/u1f7ptdt6m8hiucg5es4.jpg"
+    ],
+    "createdAt": "2022-12-25T10:51:49.120Z",
+    "updatedAt": "2022-12-25T12:48:16.335Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82c3657da696d6a618f56",
+    "title": "ÁO VEST XANH KẺ Ô TRẮNG - AV302",
+    "price": 3750000,
+    "desc": "Kiểu dáng: Slim fit, sang trọng cách tân dựa trên tỷ lệ hình thể người đàn ông Việt Nam giúp bộ đồ trông sang trọng nhưng vẫn giữ được sự trẻ trung và hạn chế khuyết điểm.\r\n                        ",
+    "category": "Áo Vest",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "blue"
+    ],
+    "stock": 46,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965749/cnb5xqhlzxl64ogf4r6m.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965883/ys2mxn6mr2wwv2o8d9gk.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965886/h251ciehaufxd9skkeru.jpg"
+    ],
+    "createdAt": "2022-12-25T10:55:50.283Z",
+    "updatedAt": "2022-12-25T10:58:06.873Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82cf557da696d6a618f6d",
+    "title": "Quần short nam Aristino",
+    "price": 550000,
+    "desc": "                 KIỂU DÁNG: Regular fit  CHI TIẾT:  - Quần short âu phom dáng Regular fit với độ suông rộng vừa phải, tạo nên sự thoải mái trong mọi hoạt động. - Quần được thiết kế cơ bản với màu sắc trung tính, giúp các anh dễ dàng phối hợp với nhiều kiểu trang phục khác nhau, mang lại diện mạo khỏe khoắn, trẻ trung khi mặc.       ",
+    "category": "Quần ngắn",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": [
+      "grey"
+    ],
+    "stock": 22,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965941/ybrobtcku1xfo7m2vf7v.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965997/k9wi9rduihzemyryu4ue.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671965999/oygddspbrldgaqoupwnd.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966002/qqxv26hrlf7oomjm5p79.jpg"
+    ],
+    "createdAt": "2022-12-25T10:59:01.408Z",
+    "updatedAt": "2022-12-25T11:09:25.896Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82dc1aee2dbd184ca978c",
+    "title": "Áo Blazer Aristino ABZ00908",
+    "price": 960000,
+    "desc": "► Áo blazer với phom dáng Regular Fit dễ mặc với nhiều dáng người.►Thiết kế hiện đại và đề cao tính ứng dụng với ve áo chữ K không quá trang trọng, ►có thể mặc trong nhiều hoàn cảnh khác nhau; có thể phối cùng sơ mi chỉn chu công sở hoặc phối với áo thun/áo len theo phong cách smart casual hiện đại.",
+    "category": "Áo Vest",
+    "sizes": [],
+    "color": [
+      "black",
+      "grey",
+      "yellow",
+      "lightblue"
+    ],
+    "stock": 20,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966145/qjyilq2cqpddlans4ynj.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966191/tddgp2lb2y53ccgyytpf.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966193/l8nei5ohdp6xyonpndkh.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966195/irvfo2ratwcltdbxrt03.jpg"
+    ],
+    "createdAt": "2022-12-25T11:02:25.632Z",
+    "updatedAt": "2022-12-25T12:20:10.838Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82dc5aee2dbd184ca978f",
+    "title": "ÁO VEST ADAM BEIGE SỮA - AV308",
+    "price": 2750000,
+    "desc": "Kiểu dáng: Slim fit, sang trọng cách tân dựa trên tỷ lệ hình thể người đàn ông Việt Nam giúp bộ đồ trông sang trọng nhưng vẫn giữ được sự trẻ trung và hạn chế khuyết điểm.                        ",
+    "category": "Áo Vest",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "stock": 23,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966149/xmsqccwjqersinfoiqsn.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966173/r9iikngesjsclojx190z.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966175/xowgnk5q3ut6u7sixhrx.jpg"
+    ],
+    "createdAt": "2022-12-25T11:02:29.948Z",
+    "updatedAt": "2022-12-25T11:17:54.972Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82e1aaee2dbd184ca97ba",
+    "title": "Quần short nam Aristino ASO036S1",
+    "price": 298000,
+    "desc": "\r\n          KIỂU DÁNG: REGULAR FIT\r\nCHI TIẾT:\r\n\r\n- Quần short phom Regular Fit suông nhẹ và thoải mái vận động.\r\n\r\n- Thiết kế basic khỏe khoắn với túi quần tiện lợi. Màu sắc dễ dàng kết hợp với các trang phục khác.              ",
+    "category": "Quần ngắn",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "green",
+      "lightblue"
+    ],
+    "stock": 13,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966234/q6qtjv8lww46nnel5bip.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966252/axrzlj1byhskvqjgzrbt.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966254/ym8xirpyf1snnehrgieh.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966255/yvog7evgncbef6qjsthk.jpg"
+    ],
+    "createdAt": "2022-12-25T11:03:54.528Z",
+    "updatedAt": "2022-12-25T11:04:16.405Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a82f17aee2dbd184ca9b76",
+    "title": "Quần short nam Aristino AS57S2",
+    "price": 650000,
+    "desc": "                       KIỂU DÁNG: Regular fit CHI TIẾT:- Quần short âu phom dáng Regular fit với độ suông rộng vừa phải, tạo nên sự thoải mái trong mọi hoạt động.- Quần được thiết kế cơ bản với màu sắc trung tính, giúp các anh dễ dàng phối hợp với nhiều kiểu trang phục khác nhau, mang lại diện mạo khỏe khoắn, trẻ trung khi mặc.",
+    "category": "Quần ngắn",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": [
+      "yellow",
+      "white"
+    ],
+    "stock": 44,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966487/t6acfsgf2zqtayv2mwzn.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966502/p0vif82rcolbo9eso6oq.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966504/tpgudwm0epb0t9clncik.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966506/brgkmglf373hc7nb8tvw.jpg"
+    ],
+    "createdAt": "2022-12-25T11:08:07.778Z",
+    "updatedAt": "2022-12-25T11:09:07.219Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a83004aee2dbd184ca9ec6",
+    "title": "ÁO VEST ADAM XANH KẺ - AV313",
+    "price": 2767000,
+    "desc": "Kiểu dáng: Slim fit, sang trọng cách tân dựa trên tỷ lệ hình thể người đàn ông Việt Nam giúp bộ đồ trông sang trọng nhưng vẫn giữ được sự trẻ trung và hạn chế khuyết điểm.\r\nGiày phù hợp: Nâu coffee/Nâu đậm/Đen\r\nSơ mi phù hợp: Trắng, đen, ghi, Xanh pastel\r\nChất liệu vải được sử dụng 80% cotton và 20% poly giúp bộ Suit thoáng mát, thấm hút tốt và vẫn giữ phom, hạn chế nhăn nhàu.\r\n                        ",
+    "category": "Áo Vest",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "blue"
+    ],
+    "stock": 13,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966724/wgq9tq1rvijcpqsqm9vo.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966741/yn1y52jemkj9jm1n7tgb.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966742/pg3smwz28o5nyg3x4u9y.jpg"
+    ],
+    "createdAt": "2022-12-25T11:12:04.674Z",
+    "updatedAt": "2022-12-25T11:12:22.887Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a830d1aee2dbd184caa103",
+    "title": "Quần tây nam Aristino ATR709",
+    "price": 750000,
+    "desc": "KIỂU DÁNG: CROPPED\r\n\r\nCHI TIẾT:\r\n\r\n- Quần âu phom dáng Cropped có độ dài trên mắt cá chân, đồng thời vẫn có độ ôm vừa, tôn dáng người mặc tuyệt đối.\r\n\r\n- Quần hoạ tiết kẻ caro với nhiều sắc độ vô cùng thời thượng. Ngoài ra, quần có phần nếp ly đứng dáng, túi xẻ 2 bên và túi cài sau tiện lợi. Ngoài ra, chữ ký cách điệu từ logo được thêu ở miệng túi độc đáo và tinh tế.\r\n                        ",
+    "category": "Quần Tây",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "blue",
+      "lightblue"
+    ],
+    "stock": 13,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966929/p8qzsdl3asqxcitkqaoa.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966946/jdjzfnw181i2tocsgemm.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966948/f3m0jepsvpnilslrkr9v.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671966950/eilkq978nuo29lfq7e3m.jpg"
+    ],
+    "createdAt": "2022-12-25T11:15:29.597Z",
+    "updatedAt": "2022-12-25T11:15:51.292Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a8311faee2dbd184caa1d6",
+    "title": "ÁO VEST ADAM HỌA TIẾT STRIPE - AV334",
+    "price": 1750000,
+    "desc": "Kiểu dáng: Slim fit, sang trọng cách tân dựa trên tỷ lệ hình thể người đàn ông Việt Nam giúp bộ đồ trông sang trọng nhưng vẫn giữ được sự trẻ trung và hạn chế khuyết điểm.\r\nGiày phù hợp: Nâu nhạt/Đỏ burgundy/Đen\r\nSơ mi phù hợp: Đen, trắng, xanh, xám\r\n\r\nHoạ tiết kẻ sọc giúp tạo ra cảm giác tăng chiều cao, khiến cho những người có chiều cao khiêm tốn trở nên cân đối hơn trong mắt người đối diện\r\n\r\nChất liệu vải được sử dụng 80% cotton và 20% poly giúp bộ Suit thoáng mát, thấm hút tốt và vẫn giữ phom, hạn chế nhăn nhàu.\r\n\r\n                        ",
+    "category": "Áo Vest",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "grey"
+    ],
+    "stock": 24,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967007/furit0nmagbw1ftjiisd.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967033/gfgcy4m7mpgkono3caqy.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967034/bb1ne5rukii8cgqzuq5q.jpg"
+    ],
+    "createdAt": "2022-12-25T11:16:47.951Z",
+    "updatedAt": "2022-12-25T11:17:15.207Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a83234aee2dbd184caa525",
+    "title": "ÁO VEST ADAM HỌA TIẾT NANH SÓI - AV322",
+    "price": 4367000,
+    "desc": "Kiểu dáng: Slim fit, sang trọng cách tân dựa trên tỷ lệ hình thể người đàn ông Việt Nam giúp bộ đồ trông sang trọng nhưng vẫn giữ được sự trẻ trung và hạn chế khuyết điểm.\r\nGiày phù hợp: Đen/ Đen trắng\r\nSơ mi phù hợp: Sơ mi trắng/đen, có thể tách rời Demi mix với quần đen hoặc trắng để tạo điểm nhấn\r\n\r\nHọa tiết Nanh sói với hai gam màu trắng đen cơ bản nhưng chúng lại có thể làm cho các tín đồ thời trang mê mệt. Thiết kế hiệu ứng 3D rất độc đáo, không những vậy, chúng còn có khả năng cải thiện vóc dáng của người mặc\r\n                        ",
+    "category": "Áo Vest",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "grey"
+    ],
+    "stock": 33,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967284/v4arhrlza4zmq4ompwyb.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967300/wy1smc6nwzx4mzognu3j.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671967302/nhaufj6ohxbvl2zfv7py.jpg"
+    ],
+    "createdAt": "2022-12-25T11:21:24.566Z",
+    "updatedAt": "2022-12-25T11:21:42.676Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a838dc8ed7b5f9a8fc9d9d",
+    "title": "ÁO GILÊ NAZAFU ĐEN 1103",
+    "price": 472500,
+    "desc": "- Áo Gile nam phom Casual fit suông rộng thoải mái, phù hợp với mọi dáng người, đem lại vẻ ngoài trẻ trung và thời thượng khi mặc.\r\n\r\n- Áo thiết kế lịch lãm với 1 khuy cài, 4 khuy tay áo, 2 đường xẻ tà truyền thống nhưng vẫn trẻ trung. Gam màu trung tính, kết hợp họa tiết kẻ tạo điểm nhấn nổi bật và thời thượng.\r\n                        ",
+    "category": "Áo Gile",
+    "sizes": [
+      "M",
+      "XL",
+      "XXl"
+    ],
+    "color": [
+      "red",
+      "grey",
+      "green"
+    ],
+    "stock": 12,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671968988/v2ng0dotn4brhdxw4olu.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969051/v0l52sromnngjbxtmq8j.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969053/hlprafk5hncipx0qmtuo.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969055/yx63mwovobajwwav5xdu.jpg"
+    ],
+    "createdAt": "2022-12-25T11:49:48.700Z",
+    "updatedAt": "2022-12-25T11:50:55.715Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a839d78ed7b5f9a8fc9e76",
+    "title": "GILE SLIMFIT TRƠN 4 NÚT AG036 MÀU XÁM TRẮNG",
+    "price": 540000,
+    "desc": "- Áo Gile nam phom Regular fit suông nhẹ nhưng vẫn vừa vặn với cơ thể, phù hợp với mọi dáng người, đem lại vẻ ngoài tự tin và lịch lãm cho người mặc.- Áo thiết kế lịch lãm với 2 khuy cài, 4 khuy tay áo, 2 đường xẻ tà truyền thống nhưng vẫn trẻ trung. Gam màu xanh tím than sang trọng, kết hợp họa tiết kẻ tạo điểm nhấn nổi bật và thời thượng.                        ",
+    "category": "Áo Gile",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": [
+      "black",
+      "grey",
+      "green"
+    ],
+    "stock": 10,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969238/vyc8rozmycbvi675xn8q.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969260/walfk4vgkrlqlrabhllk.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969262/ydlj0l6tza0tinoyqt6u.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969264/ihol7sugdyx3mewzxhdk.jpg"
+    ],
+    "createdAt": "2022-12-25T11:53:59.083Z",
+    "updatedAt": "2022-12-25T12:03:44.486Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a83a4c8ed7b5f9a8fc9e99",
+    "title": "ÁO GILÊ NAZAFU XANH ĐEN 1113",
+    "price": 490500,
+    "desc": "- Áo gile với phom dáng Regular Fit dễ mặc với nhiều dáng người.- Thiết kế basic, túi nắp giả thời trang, có thể kết hợp với sơ mi tạo diện mạo chỉn chu hoặc áo T-shirt mang đến phong cách Smart Casual khỏe khoắn, lịch thiệp.- Đường may tỉ mỉ, dệt jacquard tạo hiệu ứng bắt mắt, màu sắc trung tính, dễ kết hợp trang phục.                        ",
+    "category": "",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "grey"
+    ],
+    "stock": 10,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969355/gwuddxcz6rc9lnzrr0se.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969414/coyxw0vm3m8bnd1zodfg.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969416/ygwqxiq0ojjl4xz1ybt6.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969418/b5n57yjsespsnhm9lnqx.jpg"
+    ],
+    "createdAt": "2022-12-25T11:55:56.028Z",
+    "updatedAt": "2022-12-25T12:03:24.032Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a83b268ed7b5f9a8fc9f1b",
+    "title": "ÁO GILÊ NAZAFU XÁM 1103",
+    "price": 472500,
+    "desc": "- Áo gile với phom dáng Regular Fit dễ mặc với nhiều dáng người.\r\n\r\n- Thiết kế basic, túi nắp giả thời trang, có thể kết hợp với sơ mi tạo diện mạo chỉn chu hoặc áo T-shirt mang đến phong cách Smart Casual khỏe khoắn, lịch thiệp.\r\n\r\n- Đường may tỉ mỉ, dệt jacquard tạo hiệu ứng bắt mắt, màu sắc trung tính, dễ kết hợp trang phục.\r\n                        ",
+    "category": "Áo Gile",
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "color": [
+      "black",
+      "grey"
+    ],
+    "stock": 12,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969573/kobsscapmoayknicsma7.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969629/t3ot52y3f8efr5uxozqk.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969632/lxt0hgpwhdrffaaejq1q.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969634/wqjrn8j0ipgxf83klsfr.jpg"
+    ],
+    "createdAt": "2022-12-25T11:59:34.496Z",
+    "updatedAt": "2022-12-25T12:00:35.477Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a83bc98ed7b5f9a8fc9f48",
+    "title": "ÁO GILÊ NAZAFU XANH BIỂN 1103",
+    "price": 472500,
+    "desc": "- Áo gile với phom dáng Slim Fit ôm vừa vặn cơ thể, tôn dáng người mặc.\r\n\r\n- Thiết kế basic, túi nắp giả thời trang, có thể kết hợp với sơ mi tạo diện mạo chỉn chu hoặc áo T-shirt mang đến phong cách khỏe khoắn, lịch thiệp.\r\n\r\n- Đường may tỉ mỉ, dệt jacquard tạo hiệu ứng bắt mắt, màu sắc trung tính, dễ kết hợp trang phục.\r\n                        ",
+    "category": "Áo Gile",
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": [
+      "blue",
+      "lightblue"
+    ],
+    "stock": 20,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969737/eyapgubeae6qrnzy6z42.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969750/jiir8ddzq3rcbapgmjon.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969753/n5esxibt9htgleofzcer.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969755/hcdggvlrdloh7xu42ubi.jpg"
+    ],
+    "createdAt": "2022-12-25T12:02:17.734Z",
+    "updatedAt": "2022-12-25T12:02:35.481Z",
+    "__v": 0
+  },
+  {
+    "_id": "63a83cae8ffbfc594ff4ad34",
+    "title": "ÁO GILÊ NAZAFU TRẮNG KEM 1103",
+    "price": 472500,
+    "desc": "- Áo gile với phom dáng Regular Fit dễ mặc với nhiều dáng người.- Thiết kế hiện đại và đề cao tính ứng dụng với ve áo chữ K không quá trang trọng, có thể mặc trong nhiều hoàn cảnh khác nhau; có thể phối cùng sơ mi chỉn chu công sở hoặc phối với áo thun/áo len theo phong cách smart casual hiện đại.                        ",
+    "category": "Áo Gile",
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "color": [
+      "white"
+    ],
+    "stock": 20,
+    "sold": 0,
+    "img": "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969966/ksd7ukqt7ev2xysg5f7r.jpg",
+    "img_product": [
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969982/ozpjemdnwpswvldz7jri.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969984/ssepxqpbyrxfwkrxnj66.jpg",
+      "http://res.cloudinary.com/dzlcjxu3l/image/upload/v1671969986/etkm5ogrs1qj4qdyblil.jpg"
+    ],
+    "createdAt": "2022-12-25T12:06:06.909Z",
+    "updatedAt": "2022-12-27T01:58:09.170Z",
+    "__v": 0
+  }
+]
